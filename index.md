@@ -29,4 +29,7 @@ Some links to useful documents from the BARN Tech Lab
 
 [Laser Cutter Files](https://github.com/BainbridgeArtisanResourceNetwork/laser-cutter-files)
 
+# Robotics
+[Barney - an open communitiy robotics project](https://github.com/BainbridgeArtisanResourceNetwork/Barney)
+
 
